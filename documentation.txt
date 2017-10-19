@@ -1,0 +1,2 @@
+Data types :
+    data Pair = P ([Char],[Char]) deriving Eq 
